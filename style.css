@@ -16,13 +16,13 @@ body {
     align-items: center;
 
 }
-.container {
+.pic {
     width: 120px;
     height: 120px;
-    background-color: blue; 
+    background-color: rgb(12, 155, 57); 
 }
 button {
-    background-color: green;
+    background-color: rgb(37, 10, 111);
     color: #fff;
     border: none;
     width: 200px;
