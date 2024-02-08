@@ -1,23 +1,26 @@
 
 body {
   background-color: #c6c6c6;
-  height: 100vh;
+  height: 95vh;
   display: flex;
   justify-content: center;
   align-items: center;
+  /* padding: 0 30vw; */
 }
 .container {
     background-color: #fff;
     padding: 30px;
+    margin: 10vw;
     border-radius: 20px;
     display: flex;
     flex-direction: column;
     align-items: center;
+
 }
-.pic {
+.container img {
     width: 120px;
     height: 120px;
-    background-color: blue;
+    /* background-color: blue; */
 }
 button {
     background-color: green;
