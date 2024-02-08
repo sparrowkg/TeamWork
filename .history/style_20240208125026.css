@@ -1,0 +1,12 @@
+.pic {
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+}
+button {
+    color: #fff;
+    border: none;
+    width: 200px;
+    height: 50px;
+    font-size: 24;
+}
