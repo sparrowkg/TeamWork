@@ -16,10 +16,9 @@ body {
     align-items: center;
 
 }
-.container {
+img {
     width: 120px;
     height: 120px;
-    background-color: blue; 
 }
 button {
     background-color: green;
